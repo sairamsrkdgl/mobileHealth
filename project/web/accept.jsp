@@ -1,4 +1,3 @@
-
 <%@page contentType="text/html" pageEncoding="windows-1252"%>
 <%@page import="mhealth.*,java.util.*,java.lang.String"%>
 <%@page contentType="text/html" import="java.util.*,mhealth.*" %>
@@ -8,7 +7,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-        <title>JSP Page</title>
+        <title>JSP Page siva </title>
     </head>
     <body>
          <%@include file="head.html"%>
