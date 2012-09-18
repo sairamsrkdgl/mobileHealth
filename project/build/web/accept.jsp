@@ -8,7 +8,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-        <title>JSP Page Sivaramakrishnan</title>
+        <title>JSP Page Sivaraman</title>
     </head>
     <body>
          <%@include file="head.html"%>
